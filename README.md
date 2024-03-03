@@ -1,8 +1,20 @@
-# React + Vite
+![alt text](public/images/ForReadme.jpg)
+# ESE Agency
+## [Live Demo](https://ese-agency-hero.vercel.app/)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## [Original Page](https://www.eseagency.ch/en)
 
-Currently, two official plugins are available:
+### "createdWith": {
+```
+"@gsap/react": "^2.1.0",
+"gsap": "^3.12.5",
+"locomotive-scroll": "^5.0.0-beta.11",
+"react": "^18.2.0",
+"react-dom": "^18.2.0",
+"sass": "^1.70.0"
+```
+### }
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<hr />
+
+![alt text](public/images/LogoForReadMe.svg)

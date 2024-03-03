@@ -1,32 +1,15 @@
 @font-face {
-  font-family: Formula-Condensed;
-  src: url("/public/font/FormulaCondensed/FormulaCondensed-Light.otf")
-    format("opentype");
-  font-weight: lighter;
+  font-family: 'SuisseIntl';
+  src: url("/public/font/SuisseIntl/SuisseIntl-SemiBold-WebS.woff2")
+    format("woff2");
+  font-weight: 500;
   font-style: normal;
 }
 
 @font-face {
-  font-family: Formula-Condensed;
-  src: url("/public/font/FormulaCondensed/FormulaCondensed-Bold.otf")
-    format("opentype");
-  font-weight: bold;
+  font-family: 'SuisseIntl';
+  src: url("/public/font/SuisseIntl/SuisseIntl-Light.otf")
+    format("woff2");
+  font-weight: 300;
   font-style: normal;
 }
-
-@font-face {
-  font-family: Roboto;
-  src: url("/public/font/Roboto/Roboto-Medium.ttf")
-    format("opentype");
-  font-weight: normal;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: Roboto;
-  src: url("/public/font/Roboto/Roboto-Black.ttf")
-    format("opentype");
-  font-weight: bold;
-  font-style: normal;
-}
-
